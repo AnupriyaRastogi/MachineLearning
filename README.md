@@ -4,5 +4,5 @@ This PDF contains
 2. Creating Dataset using make_classificationa and make_regression and doing exploratory data analysis.
 3. Implement K Nearest Neighbour form the scratch
 4. Implement Decision Tree from the scratch
-5. Making Deccision Boundaries
+5. Making Decision Boundaries
 
